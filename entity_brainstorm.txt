@@ -1,0 +1,5 @@
+We know for sure that the activity will contain a sand boxed experience with logic etc.
+The confusing part is what to do about the UI. Here are some things that need to be supported
+
+Camera: Players will zoom around the map. I will also want the map layout to change once zoom has reached a certain amount, much in the same manner as endless legend
+UI overlay and static UI effects will be present regardless of the camera position

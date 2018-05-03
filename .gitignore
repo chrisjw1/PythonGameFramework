@@ -2,3 +2,5 @@
 pyglet docs
 venv
 TODO.txt
+*.pyc
+__pycache__
